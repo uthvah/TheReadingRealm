@@ -1,14 +1,10 @@
-# Python-Platformer
+# Python platformer 
+## (For Reading School's 900th year giving day!)
 
-# 💻 Launch Your Software Development Career Today!  
+## Preview
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+### Menu
+![image](https://github.com/user-attachments/assets/ad2d95bf-7947-4430-83fb-06cca524368d)
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
-
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+### Game
+![image](https://github.com/user-attachments/assets/498443eb-faaa-4cd4-9898-79481d3f48ad)
